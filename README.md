@@ -1,4 +1,4 @@
-[![MasterHead](Hamzaelaamili/gif/masterhead.gi]
+[![MasterHead](Hamzaelaamili/gif/masterhead.gif]
 <h1 align="center">Hi 👋, I'm EL Aamili Hamza</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
  <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif")
