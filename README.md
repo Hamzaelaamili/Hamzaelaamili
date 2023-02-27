@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
+![masterhead](https://user-images.githubusercontent.com/125555445/221557144-9f128373-9958-4d78-8013-c67f7d94b03e.gif)
 <h1 align="center">Hi 👋, I'm EL Aamili Hamza</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
- <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif")
+ <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/125555445/221557470-ea52573b-2420-41d5-b38e-132b59d3a519.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaelaamili&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaelaamili" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaelaamili" alt="hamzaelaamili" /></a> </p>
